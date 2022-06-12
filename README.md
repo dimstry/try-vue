@@ -1,5 +1,7 @@
 # vue-app
 
+#MendingReact
+
 ## Project setup
 ```
 npm install
